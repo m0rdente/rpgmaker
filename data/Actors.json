@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"dan 1","characterIndex":0,"characterName":"dan 1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"dan 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dan","nickname":"Humphrey","note":"","profile":""},
+{"id":1,"battlerName":"dan 1","characterIndex":0,"characterName":"dan 1","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"dan 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dan","nickname":"Humphrey","note":"","profile":""},
 {"id":2,"battlerName":"blair 1","characterIndex":0,"characterName":"blair 1","classId":5,"equips":[2,1,0,0,0],"faceIndex":0,"faceName":"blair 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blair","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"serena","characterIndex":0,"characterName":"serena 1","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"serena","traits":[],"initialLevel":1,"maxLevel":99,"name":"Serena","nickname":"A Feiticheira","note":"","profile":""},
 {"id":4,"battlerName":"kira","characterIndex":0,"characterName":"kira","classId":6,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"kira","traits":[],"initialLevel":5,"maxLevel":99,"name":"Kira","nickname":"A Gatuna","note":"","profile":""}
