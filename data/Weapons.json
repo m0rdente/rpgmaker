@@ -5,5 +5,6 @@ null,
 {"id":3,"animationId":2,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arco","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
 {"id":5,"animationId":7,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"Garra","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":10},
-{"id":6,"animationId":4,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":97,"name":"Berserk","note":"","params":[0,0,25,0,0,0,0,0],"price":1000,"wtypeId":2}
+{"id":6,"animationId":4,"description":"","etypeId":1,"traits":[{"code":31,"dataId":3,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":97,"name":"Berserk","note":"","params":[0,0,25,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":7,"animationId":13,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Hawkeye","note":"","params":[0,0,25,0,0,0,0,0],"price":1000,"wtypeId":7}
 ]
